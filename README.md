@@ -1,6 +1,6 @@
 # 🌦️ Projeto Clima - Case de Engenharia de Dados
 
-Este projeto foi desenvolvido como parte de um case para avaliação de competências como Engenheiro de Dados. O objetivo é demonstrar uma arquitetura moderna de ingestão, tratamento, organização e disponibilização de dados meteorológicos e de qualidade do ar utilizando recursos da **Microsoft Azure** e ferramentas de análise em tempo real.
+Este projeto foi desenvolvido para demonstrar um pipeline de dados em streaming. O objetivo é demonstrar uma arquitetura moderna de ingestão, tratamento, organização e disponibilização de dados meteorológicos e de qualidade do ar utilizando recursos da **Microsoft Azure** e ferramentas de análise em tempo real.
 
 ---
 
@@ -69,7 +69,7 @@ Diversas views analíticas foram criadas para exploração de dados:
 
 ## 💡 Considerações Finais
 
-Este projeto demonstra não apenas domínio técnico das ferramentas Azure, mas também boas práticas de engenharia de dados, como ingestão em tempo real, separação em camadas de tratamento e foco em insights de negócio com dashboards. O case é um exemplo completo e funcional de como construir um pipeline de dados moderno e escalável.
+Este projeto demonstra o uso das ferramentas Azure e também boas práticas de engenharia de dados, como ingestão em tempo real, separação em camadas de tratamento e foco em insights de negócio com dashboards. O case é um exemplo completo e funcional de como construir um pipeline de dados moderno e escalável.
 
 ---
 
